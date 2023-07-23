@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start-m1": "node M1_microservice/index.js",
+    "start-m2": "node M2_microservice/index.js"
+  }
+}

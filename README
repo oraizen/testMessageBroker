@@ -1,0 +1,8 @@
+- Installation
+    - install [RabbitMQ](https://www.rabbitmq.com/download.html)
+    - install [NodeJs](https://nodejs.org/en)
+    - go to the cloned repository directory and run: npm install
+- Running
+    - Start the [RabbitMQ](https://www.rabbitmq.com/download.html)
+    - To start M2 microservice run: npm run start-m2
+    - To start M1 microservice run: npm run start-m1
